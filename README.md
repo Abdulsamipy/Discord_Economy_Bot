@@ -1,5 +1,3 @@
-# Discord_Coin_Bot
-
 # Discord Economy Bot
 
 ## Overview
